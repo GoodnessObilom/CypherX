@@ -4,7 +4,6 @@
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
   "keywords": [],
   "repository": "https://github.com/GoodnessObilom/CypherX",
-  "stack": "stack24",
   "addons": [
     {
       "plan": "heroku-postgresql"
